@@ -19,7 +19,7 @@ namespace EmployeeManegment.Models
         public string Dipartment { get; set; }
         public string Designation { get; set; }
 
-
+        public string Designation2 { get; set; }
 
     }
 }
